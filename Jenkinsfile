@@ -27,7 +27,7 @@ sh 'gradle run'}
 }
 post{
 success{
-echo 'Build scuucess'}
+echo 'Build scuucess shubham 1bi23cs200'}
 failure{
 echo 'failure'
 }}
